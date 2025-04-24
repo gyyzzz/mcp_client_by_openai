@@ -1,4 +1,4 @@
-# MCP_client_by_openai
+# MCP_client_with_openai
 
 此项目用于个人学习实践MCP(Modle Context Protocol)，本项目实现了一个使用openai api的mcp-client
 
